@@ -1,2 +1,3 @@
 # myapp
-my test application
+my test application. Just for learning Git
+updated one more time
